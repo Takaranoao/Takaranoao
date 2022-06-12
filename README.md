@@ -1,5 +1,11 @@
-### Hi there 👋
+### 是宝蓝 🐺
+---------------
+- 不爱写README 
+- 起名困难户
+- 拼错单词爱好者
+- 擅长使用ByteCode和一堆反射增加代码可读性
 
+联系我 ([@Takaranoao](https://t.me/Takaranoao))
 <!--
 **Takaranoao/Takaranoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
