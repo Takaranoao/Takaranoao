@@ -5,6 +5,10 @@
 - 拼错单词爱好者
 - 擅长使用ByteCode和一堆反射增加代码可读性
 
+中文✅ 
+日本語✅
+English (❌+✅)/2
+
 联系我 ([@Takaranoao](https://t.me/Takaranoao))
 <!--
 **Takaranoao/Takaranoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
