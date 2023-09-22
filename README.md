@@ -1,5 +1,7 @@
 ### 是宝蓝 🐺
 ---------------
+[![My Skills](https://skillicons.dev/icons?i=react,java,ts)](https://skillicons.dev)
+---------------
 - 不爱写README 
 - 起名困难户
 - 拼错单词爱好者
