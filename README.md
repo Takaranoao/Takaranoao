@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,windicss,nodejs,php,java,spring,kotlin,go,mongodb,mysql)](https://skillicons.dev)
 
-web全沾工程师
+web全沾工程师/fullstack developer
 
 <details>
   
