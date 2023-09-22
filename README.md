@@ -1,6 +1,6 @@
 ### 是宝蓝 🐺
 ---------------
-[![My Skills](https://skillicons.dev/icons?i=react,java,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,windicss,nodejs,php,java,kotlin,go,spring,mongodb,mysql)](https://skillicons.dev)
 ---------------
 - 不爱写README 
 - 起名困难户
