@@ -11,7 +11,6 @@ web全沾工程师
 - 擅长使用ByteCode和一堆反射增加代码可读性
 ```
 
-联系我 ([@Takaranoao](https://t.me/Takaranoao))
 | 可用语言   | 熟练度 |
 |  ------  | ------ |
 | 中文      | ✅     |
