@@ -1,0 +1,10 @@
+#!desc=华立wcaime抓包
+#!homepage=https://takaranoao.com
+#!author=takaranoao
+name: maimaiwcaime
+desc: 华立wcaime抓包
+http:
+  mitm:
+    - "tgk-wcaime.wahlap.com"
+    - "maimai.wahlap.com"
+    - "chunithm.wahlap.com"
