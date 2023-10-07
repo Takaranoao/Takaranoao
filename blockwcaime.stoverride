@@ -1,0 +1,10 @@
+#!desc=华立wcaime拦截
+#!homepage=https://takaranoao.com
+#!author=takaranoao
+name: blockwcaime
+desc: 华立wcaime拦截
+http:
+  mitm:
+    - "tgk-wcaime.wahlap.com"
+  rewrite:
+    - ^.+tgk-wcaime\.wahlap\.com\/wc_auth\/oauth\/callback/.* - reject
