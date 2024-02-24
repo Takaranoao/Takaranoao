@@ -4,6 +4,8 @@
 
 web全沾工程师/fullstack developer
 
+[GPG KEY](https://raw.githubusercontent.com/Takaranoao/Takaranoao/main/public.key)
+
 <details>
   
 - 不爱写README
