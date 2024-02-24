@@ -4,7 +4,7 @@
 
 web全沾工程师/fullstack developer
 
-PGP:0x2D6608D2 [raw](https://raw.githubusercontent.com/Takaranoao/Takaranoao/main/public.key)
+PGP:0x2D6608D2 [raw](https://raw.githubusercontent.com/Takaranoao/Takaranoao/main/public.key)｜[keyserver](https://keyserver.ubuntu.com/pks/lookup?search=0x2D6608D2&fingerprint=on&op=index)
 
 <details>
   
