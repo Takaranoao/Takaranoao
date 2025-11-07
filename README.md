@@ -12,6 +12,7 @@ PGP:0x2D6608D2 [raw](https://raw.githubusercontent.com/Takaranoao/Takaranoao/mai
 - 起名困难户
 - 拼错单词爱好者
 - 擅长使用ByteCode和一堆反射增加代码可读性
+- 玩原神
 
 | 可用语言   | 熟练度 |
 |  ------  | ------ |
@@ -20,6 +21,5 @@ PGP:0x2D6608D2 [raw](https://raw.githubusercontent.com/Takaranoao/Takaranoao/mai
 | English  |(❌+✅)/2|
 
 </details>
-
 
 
